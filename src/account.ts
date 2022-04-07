@@ -6,7 +6,7 @@ import {toBuffer} from './util/to-buffer';
 import {PublicKey} from './publickey';
 
 /**
- * An account key pair (public and secret keys).
+ * An account key pair (public and secret keys).//simar 
  *
  * @deprecated since v1.10.0, please use {@link Keypair} instead.
  */
